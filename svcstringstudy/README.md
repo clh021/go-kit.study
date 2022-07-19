@@ -2,3 +2,4 @@
 [stingsvc官方教程](https://gokit.io/examples/stringsvc.html)
 - 为服务建立接口
 - 实现接口
+- 建立请求和响应的结构体
