@@ -1,4 +1,4 @@
-package svcstring
+package main
 
 import (
 	"context"
