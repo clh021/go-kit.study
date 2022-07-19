@@ -1,4 +1,4 @@
-package stringsvc
+package svcstring
 
 import (
 	"errors"
